@@ -1,0 +1,21 @@
+{
+  "name": "ost-landing",
+  "version": "1.0.0",
+  "description": "This repository contains a minimalist landing page for Open Street Trading. Open `index.html` in your browser to view it.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "next": "13.5.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
+
