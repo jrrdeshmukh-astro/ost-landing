@@ -1,3 +1,10 @@
 # Open Street Trading Landing Page
 
-This repository contains a minimalist landing page for Open Street Trading. Open `index.html` in your browser to view it.
+This repository now uses **Next.js** to serve the landing page. To run locally:
+
+```bash
+npm install
+npm run dev
+```
+
+Open `http://localhost:3000` in your browser to view the site. The old static `index.html` file is still included for reference.
